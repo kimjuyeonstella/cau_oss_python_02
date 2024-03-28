@@ -18,4 +18,4 @@ else:
     charge=13000
 
 print("Total length:",total_length)
-print("Charge",charge)
+print("Charge is ",charge)
