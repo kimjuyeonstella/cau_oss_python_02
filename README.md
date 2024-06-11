@@ -6,3 +6,7 @@ Homework#2, simple calculator 구현
 
 ## 2024-05-20
 Homework#4, figure 구현
+
+
+
+Github 저장소(origin)의 devC branch에서 README.md 파일 수정
